@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\KARUNAKARAN G\\Desktop\\classification\\dogsvscat-0.001-8conv-basic-video.model"
+all_model_checkpoint_paths: "C:\\Users\\KARUNAKARAN G\\Desktop\\classification\\dogsvscat-0.001-8conv-basic-video.model"
